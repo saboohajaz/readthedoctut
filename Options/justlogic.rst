@@ -1,6 +1,9 @@
 Just Logic
 +++++++++++
 
+A simple Text.
+
+
 Key Goals
 =======================
 Testing bold and italic and codeword
